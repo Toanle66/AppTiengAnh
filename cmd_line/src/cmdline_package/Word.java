@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Word {
-`    private int id;`
+    private int id;
     private String word_target;
     private String word_type;
     private String word_explain;
